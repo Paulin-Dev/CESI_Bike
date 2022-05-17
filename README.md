@@ -27,5 +27,5 @@ Deux types d'opérateurs :
 **Les temps de fabrication par poste et par sous-ensemble sont visibles dans data.json**
 **Les actions d'entraide sont visibles dans le fichier logs.txt**
 
-Étudiants : Lucas & Antoine & Mohamad & Paulin
+Étudiants : Lucas & Antoine & Mohamad & Paulin  
 Intervenants : Cédric
