@@ -3,7 +3,7 @@
 ### Simulation d'une chaîne de montage
 
 <p align="center"><img alt="Image de la maquette" src="https://media.discordapp.net/attachments/918983715143684137/974684928727990322/IMG_4619.jpg?width=884&height=663" width=800 /></p> 
-<p align="middle"><i> Maquette de la chaine de de montage </i><p>
+<p align="middle"><i> Maquette de la chaine de de montage </i></p>
 
 Deux types d'opérateurs : 
 
@@ -39,10 +39,22 @@ Deux types d'opérateurs :
 
 Pour les postes manuels :
 
-<p align="center"><img alt="Image du montage electrique arduino" src="https://media.discordapp.net/attachments/717747465805365330/976167174920089650/unknown.png?width=1010&height=663" width=500 /></p>
-  
+<p align="center"><img alt="Image du montage electrique" src="https://media.discordapp.net/attachments/717747465805365330/976167174920089650/unknown.png?width=1010&height=663" width=500 /></p>  
+
+Matériel :
+  - 1 arduino uno  
+  - 1 breadboard  
+  - 4 boutons  
+  - 4 leds (bleue, verte, jaune, rouge)  
+  - 4 resistances 220Ω pour les leds  
+  - 4 resistances 1kΩ pour les boutons  
+  - fils électriques  
+
+
+<br />  
+
 Même principe pour les postes automatiques, à l'exception qu'il n'y a que des leds vertes (*un seul bouton peut également être utilisé pour commander les 4 postes*)
-<br><br><br>
+<br /><br /><br /><br />
   
 <img alt="Logo CESI" src="https://ecole-ingenieurs.cesi.fr/wp-content/themes/cesi/static/logo/ecole-ingenieurs.svg" width="200" />  
   
