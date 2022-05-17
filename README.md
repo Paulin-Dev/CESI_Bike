@@ -28,4 +28,4 @@ Deux types d'opérateurs :
 **Les actions d'entraide sont visibles dans le fichier logs.txt**
 
 Étudiants : Lucas & Antoine & Mohamad & Paulin  
-Intervenants : Cédric
+Intervenant : Cédric
