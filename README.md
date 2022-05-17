@@ -26,15 +26,6 @@ Deux types d'opérateurs :
 
 > Les temps de fabrication par poste et par sous-ensemble sont visibles dans data.json  
 > Les actions d'entraide sont visibles dans le fichier logs.txt
-
-## Procédure
- 
-- Installer les modules nécessaires (voir `requirements.txt` pour la partie en Python)  
-- Téléverser le programme `manuel.ino` (*à l'aide de l'IDE Arduino*) dans les arduino gérant les **postes manuels** en veillant bien à **modifier la variable** `POSTE`.  
-- Téléverser le programme `automatique.ino` dans l'arduino gérant les **postes automatiques**
-- Lancer le programme `main.py` sur le PC relié aux arduino
-
-> Le nombre de sous-ensembles par poste devrait apparaître en temps réel dans la console
   
 ## Montage électrique
 
@@ -55,7 +46,18 @@ Matériel :
 <br />  
 
 Même principe pour les postes automatiques, à l'exception qu'il n'y a que des leds vertes (*un seul bouton peut également être utilisé pour commander les 4 postes*)
-<br /><br /><br /><br />
+
+
+## Procédure
+ 
+- Installer les modules nécessaires (voir `requirements.txt` pour la partie en Python)  
+- Téléverser le programme `manuel.ino` (*à l'aide de l'IDE Arduino*) dans les arduino gérant les **postes manuels** en veillant bien à **modifier la variable** `POSTE`.  
+- Téléverser le programme `automatique.ino` dans l'arduino gérant les **postes automatiques**
+- Lancer le programme `main.py` sur le PC relié aux arduino
+
+> Le nombre de sous-ensembles par poste devrait apparaître en temps réel dans la console  
+
+<br /><br /><br />
   
 <img alt="Logo CESI" src="https://ecole-ingenieurs.cesi.fr/wp-content/themes/cesi/static/logo/ecole-ingenieurs.svg" width="200" />  
   
