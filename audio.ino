@@ -1,3 +1,7 @@
+/*
+Jouer un son avec un Grove Speaker
+*/
+
 #define SPEAKER 3   // pin du systeme audio
 
 void setup()
