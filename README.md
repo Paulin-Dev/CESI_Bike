@@ -28,7 +28,8 @@ Deux types d'opérateurs :
 > Les actions d'entraide sont visibles dans le fichier logs.txt
 
 ## Procédure
-
+ 
+- Installer les modules nécessaires (voir `requirements.txt` pour la partie en Python)  
 - Téléverser le programme `manuel.ino` (*à l'aide de l'IDE Arduino*) dans les arduino gérant les **postes manuels** en veillant bien à **modifier la variable** `POSTE`.  
 - Téléverser le programme `automatique.ino` dans l'arduino gérant les **postes automatiques**
 - Lancer le programme `main.py` sur le PC relié aux arduino
