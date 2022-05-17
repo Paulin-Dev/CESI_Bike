@@ -32,9 +32,19 @@ Deux types d'opérateurs :
 
 - Téléverser le programme `manuel.ino` (*à l'aide de l'IDE Arduino*) dans les arduino gérant les **postes manuels** en veillant bien à **modifier la variable** `POSTE`.  
 - Téléverser le programme `automatique.ino` dans l'arduino gérant les **postes automatiques**
-- Lancer le programme `main.py` sur un PC 
+- Lancer le programme `main.py` sur le PC relié aux arduino
 
 > Le nombre de sous-ensembles par poste devrait apparaître en temps réel dans la console
+  
+## Montage électrique
+
+Pour les postes manuels :
+
+![Image du montage electrique arduino](https://media.discordapp.net/attachments/717747465805365330/976167174920089650/unknown.png?width=1010&height=663)
+  
+Même principe pour les postes automatiques, à l'exception qu'il n'y a que des leds vertes (*un seul bouton peut également être utilisé pour commander les 4 postes*)
+
+
 
 Étudiants : Lucas, Antoine, Mohamad & Paulin  
 Intervenant : Cédric
