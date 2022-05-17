@@ -24,8 +24,8 @@ Deux types d'opérateurs :
 - Toutes les leds s'allument automatiquement après une première pression sur le bouton vert 
 
 
-**Les temps de fabrication par poste et par sous-ensemble sont visibles dans data.json**
+**Les temps de fabrication par poste et par sous-ensemble sont visibles dans data.json**  
 **Les actions d'entraide sont visibles dans le fichier logs.txt**
 
-Étudiants : Lucas & Antoine & Mohamad & Paulin  
+Étudiants : Lucas, Antoine, Mohamad & Paulin  
 Intervenant : Cédric
