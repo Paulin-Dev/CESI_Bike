@@ -286,7 +286,7 @@ void display_stock_poste_4(){
 
   //  /!\  probleme lors de la lecture des nombres envoyés par le pc, à refaire
 
-  // read_counter pour lire qu'une fois toutes les secondes
+  // read_counter pour lire les donnees qu'une fois par seconde
   if (read_counter > 10) {
     if (Serial.available() > 0) {
       int val = Serial.read();
