@@ -1,9 +1,9 @@
 # Projet CESI Bike
 
-### Simulation d'une chaîne de production
+### Simulation d'une chaîne de montage
 
-![Maquette de la chaine de montage](https://media.discordapp.net/attachments/918983715143684137/974684928727990322/IMG_4619.jpg?width=884&height=663)
-
+![Image de la maquette](https://media.discordapp.net/attachments/918983715143684137/974684928727990322/IMG_4619.jpg?width=884&height=663)  
+<p align="justify"> Maquette de la chaine de de montage </p>
 
 Deux types d'opérateurs : 
 
@@ -26,6 +26,8 @@ Deux types d'opérateurs :
 
 **Les temps de fabrication par poste et par sous-ensemble sont visibles dans data.json**  
 **Les actions d'entraide sont visibles dans le fichier logs.txt**
+
+## Procèdure
 
 Étudiants : Lucas, Antoine, Mohamad & Paulin  
 Intervenant : Cédric
