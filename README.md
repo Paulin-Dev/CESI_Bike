@@ -50,7 +50,7 @@ Même principe pour les postes automatiques, à l'exception qu'il n'y a que des 
 
 ## Procédure
  
-- Installer les modules nécessaires (voir `requirements.txt` pour la partie en Python)  
+- Installer les modules nécessaires (voir `requirements_python.txt` pour la partie en Python et `requirements_arduino.txt` pour Arduino)  
 - Téléverser le programme `manuel.ino` (*à l'aide de l'IDE Arduino*) dans les arduino gérant les **postes manuels** en veillant bien à **modifier la variable** `POSTE`.  
 - Téléverser le programme `automatique.ino` dans l'arduino gérant les **postes automatiques**
 - Lancer le programme `main.py` sur le PC relié aux arduino
