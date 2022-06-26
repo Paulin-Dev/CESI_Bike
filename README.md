@@ -2,7 +2,7 @@
 
 ### Simulation d'une chaîne de montage
 
-<p align="center"><img alt="Image de la maquette" src="https://imgur.com/OmmmBfi" width=800 /></p> 
+<p align="center"><img alt="Image de la maquette" src="https://imgur.com/OmmmBfi.png" width=800 /></p> 
 <p align="middle"><i> Maquette de la chaine de de montage </i></p>
 
 Deux types d'opérateurs : 
