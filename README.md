@@ -31,7 +31,7 @@ Deux types d'opérateurs :
 
 Pour les postes manuels :
 
-<p align="center"><img alt="Image du montage electrique" src="" width=500 /></p>  
+<p align="center"><img alt="Image du montage electrique" src="https://imgur.com/1cwsn3d.png" width=500 /></p>  
 
 Matériel :
   - 1 arduino uno  
